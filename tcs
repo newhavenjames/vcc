@@ -1,0 +1,3 @@
+The 
+git origin -v
+ command shows the URLs associated with the remote repository named "origin". It lists the fetch and push URLs for that remote, which can be useful for verifying or modifying the remote settings.
