@@ -1,5 +1,5 @@
-
-how to know which repository i connected
-You can use the command 
-git remote -v
- to list all the remote repositories that are currently connected to your local repository. The output will show you the name of the remote repository and its URL. The one with (fetch) and (push) next to it is the one you are currently connected to.
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
